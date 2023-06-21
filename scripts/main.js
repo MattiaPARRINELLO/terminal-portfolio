@@ -107,7 +107,7 @@ const getInputValue = async () => {
       <div class="doubleTab"><span class="key">"name"</span>: <span class="value">"Visit Amsterdam"</span>,</div>
       <div class="doubleTab"><span class="key">"description"</span>: <span class="value">"Un site web qui met en avant la ville d'Amsterdam et propose des hotels"</span>,</div>
       <div class="doubleTab"><span class="key">"languages"</span>: <span class="value">"HTML, CSS, JS"</span>,</div>
-      <div class="doubleTab"><a href="https://visit-amsterdam.sobot.fr"><span class="key">"link"</span>: <span class="value">"https://games.sobot.fr/visit-amsterdam"</span></a></div>
+      <div class="doubleTab"><a href="https://games.sobot.fr/visit-amsterdam"><span class="key">"link"</span>: <span class="value">"https://games.sobot.fr/visit-amsterdam"</span></a></div>
       <div class="tab"><span class="parentheses">}</span></div>
 
       <div><span class="br">]</span></div>
